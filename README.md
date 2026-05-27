@@ -23,7 +23,7 @@ Bienvenido a mi portafolio personal como **Desarrollador Full Stack**. Aquí enc
 ## 📬 Contacto
 - **Email:** delgadillow79@gmail.com
 - **GitHub:** [delgadillow79-star](https://github.com/delgadillow79-star)
-- **LinkedIn:** [William Delgadillo](https://www.linkedin.com/in/william-jose-delgadillo-garcia-7b0513220)
+- **LinkedIn:** [William Delgadillo](https://www.linkedin.com/in/william-delgadillo-225538271/)
 
 ## 🌐 Portafolio en vivo
 [https://delgadillow79-star.github.io/Portafolio-WD/](https://delgadillow79-star.github.io/Portafolio-WD/)
